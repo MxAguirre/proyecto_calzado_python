@@ -122,7 +122,7 @@ Ejemplo (a modo de referencia):
 ### Funcion "calzado_pais"
 Encabezado de la función:
 ```python
-def calzado_pais(countries, contry, size):
+def calzado_pais(countries, country, size):
 ```
 Entrada (argumentos):
 - Esta función recibe por parámetro:

@@ -1,5 +1,6 @@
 import numpy as np
 
+genero = str(input('Selecione el genero\nM: Male\nF: Famale'))
 country = np.array(["Canada", "Canada", "Canada", "Germany", "Argentina"])
 price = np.array([250, 250, 100, 120, 50])
 
